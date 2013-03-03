@@ -1,0 +1,69 @@
+﻿<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string-array name="mdnie_scenario_entries">
+        <item>Kamera (noklusējuma)</item>
+        <item>Video</item>
+        <item>Video silts</item>
+        <item>Video auksts</item>
+        <item>UI</item>
+        <item>Navigācija</item>
+        <item>Galerija</item>
+        <item>VT</item>
+    </string-array>
+
+    <string-array name="mdnie_mode_entries">
+        <item>Standarta (noklusējuma)</item>
+        <item>Dinamisks</item>
+        <item>Daba</item>
+        <item>Kinofilma</item>
+    </string-array>
+
+    <string-array name="mdnie_negative_entries">
+        <item>Normāls</item>
+        <item>Invertēts</item>
+    </string-array>
+
+    <string-array name="mdnie_outdoor_entries">
+        <item>Izslēgts (noklusējuma)</item>
+        <item>Ieslēgts</item>
+    </string-array>
+
+    <string-array name="panel_gamma_entries">
+        <item>2.2 (noklusējuma)</item>
+        <item>1.9</item>
+    </string-array>
+
+    <string-array name="touchscreen_sensitivity_entries">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>50 (noklusējuma)</item>
+        <item>70</item>
+        <item>100</item>
+    </string-array>
+
+    <string-array name="vibrator_intensity_entries">
+        <item>0%</item>
+        <item>25%</item>
+        <item>50% (noklusējuma)</item>
+        <item>75%</item>
+        <item>100%</item>
+    </string-array>
+
+    <string-array name="hspa_entries">
+        <item>Tikai UMTS</item>
+        <item>Tikai HSDPA</item>
+        <item>HSDPA + HSUPA</item>
+    </string-array>
+
+    <string-array name="touchkey_timeout_entries">
+            <item>Nekad</item>
+            <item>1 sekunde</item>
+            <item>2 sekundes</item>
+            <item>3 sekundes (noklusējuma)</item>
+            <item>4 sekundes</item>
+            <item>5 sekundes</item>
+            <item>6 sekundes</item>
+    </string-array>
+
+</resources>

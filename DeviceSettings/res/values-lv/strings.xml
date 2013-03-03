@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">Galaxy S II Iestatījumi</string>
+    
+    <string name="category_screen_title">Ekrāns</string>
+    <string name="screen_colors_title">Krāsas</string>
+    <string name="mdnie_scenario_title_head">Scenārijs</string>
+    <string name="mdnie_scenario_summary_head">Iestatīt mDNIe scenāriju</string>
+    <string name="mdnie_mode_title_head">Režīms</string>
+    <string name="mdnie_mode_summary_head">Iestatīt mDNIe režīmu</string>
+    <string name="mdnie_negative_title_head">Negatīvais režīms</string>
+    <string name="mdnie_negative_summary_head">Iespējot/Atspējot invertētās krāsas</string>
+    <string name="mdnie_outdoor_title_head">Ārpustelpas režīms</string>
+    <string name="mdnie_outdoor_summary_head">Iespējot/Atspējot ārpustelpas režīmu</string>
+    <string name="panel_gamma_title_head">Ekrāna gamma</string>
+    <string name="panel_gamma_summary_head">Iestatīt ekrāna gammas vērtību</string>
+
+    <string name="touchscreen_subcat_title">Skārienjūtīgais ekrāns</string>
+    <string name="touchscreen_sensitivity_title_head">Pieskāriena jūtība</string>
+    <string name="touchscreen_sensitivity_summary_head">Iestatīt skārienpaneļa jūtību</string>
+    
+    <string name="touchkey_subcat_title">Skātienjūtīgās pogas</string>
+    <string name="touchkey_light_title_head">Iespējot skārienjūtīgo taustiņu apgaismojumu</string>
+    <string name="touchkey_light_summary_head">Apgaismot skārienjūtīgos taustiņus, kad ekrāns ir ieslēgts</string> 
+    <string name="touchkey_timeout_title_head">Apgaismojuma noildze</string>
+    <string name="touchkey_timeout_summary_head">Apgaismojuma izslēgšanās aizkave pēc taustiņa nospiešanas</string>
+    
+    <string name="category_sensors_title">Sensori</string>
+    <string name="accelerometer_subcat_title">Akselerometrs</string>
+    <string name="use_accelerometer_calibration_title_head">Izmantot kalibrācijas datus</string>
+    <string name="use_accelerometer_calibration_summary_head">Izmantot akselerometra kalibrācijas datus. Izvēloties šo,veikt kalibrāciju!</string>
+    <string name="calibrate_accelerometer_title_head">Kalibrēt</string>
+    <string name="calibrate_accelerometer_summary_head">Novietojiet telefonu uz līdzenas virsmas un nospiediet te, lai sākt kalibrāciju!</string>
+    <string name="accelerometer_dialog_head">Kalibrācija pabeigta</string>
+    <string name="accelerometer_dialog_message">Sensors tika veiksmīgi kalibrēts.</string>
+
+    <string name="category_haptic_title">Vibrācijas atgriezeniskā saite</string>
+    <string name="vibrator_subcat_title">Vibrators</string>
+    <string name="vibrator_intensity_title_head">Vibratora intensitāte</string>
+    <string name="vibrator_intensity_summary_head">Iestatīt vibratora intensitāti</string>
+
+    <string name="category_radio_title">Radio</string>
+    <string name="hspa_title_head">HSPA</string>
+    <string name="hspa_summary_head">Iespējot HSDPA/HSUPA</string>
+    
+    <string name="category_dock_title">Dokstacija</string>
+    <string name="dockaudio_subcat_title">Audio</string>
+    <string name="use_dock_audio_title_head">Izmantot dokstacijas USB Audio</string>
+    <string name="use_dock_audio_summary_head">Izmantot pasīvo dokstacijas izeju</string>
+</resources>
