@@ -27,7 +27,7 @@
 
     <string name="category_sensors_title">Sensoren</string>
     <string name="accelerometer_subcat_title">Beschleunigungssensor</string>
-    <string name="use_accelerometer_calibration_title_head">Kalibierungsdaten</string>
+    <string name="use_accelerometer_calibration_title_head">Kalibrierungsdaten</string>
     <string name="use_accelerometer_calibration_summary_head">Kalibrierungswerte verwenden\nNach Aktivierung bitte Kalibrierung ausführen</string>
     <string name="calibrate_accelerometer_title_head">Kalibrieren</string>
     <string name="calibrate_accelerometer_summary_head">Sensor kalibrieren\nZum Starten das Telefon auf eine horizontale, ebene Fläche legen</string>
