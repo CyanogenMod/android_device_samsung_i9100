@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Innstillinger for Galaxy S II</string>
+
+    <string name="category_screen_title">Skjerm</string>
+    <string name="screen_colors_title">Farger</string>
+    <string name="mdnie_scenario_title_head">Scenario</string>
+    <string name="mdnie_scenario_summary_head">Angi mDNIe-scenario</string>
+    <string name="mdnie_mode_title_head">Modus</string>
+    <string name="mdnie_mode_summary_head">Angi mDNIe-modus</string>
+    <string name="mdnie_negative_title_head">Negativmodus</string>
+    <string name="mdnie_negative_summary_head">Aktiver/deaktiver inverterte farger</string>
+    <string name="mdnie_outdoor_title_head">Utendørsmodus</string>
+    <string name="mdnie_outdoor_summary_head">Aktiver/deaktiver utendørsmodus</string>
+    <string name="panel_gamma_title_head">Skjermgamma</string>
+    <string name="panel_gamma_summary_head">Angi skjermens gammaverdi</string>
+
+    <string name="touchscreen_subcat_title">Berøringsskjerm</string>
+    <string name="touchscreen_sensitivity_title_head">Berøringsfølsomhet</string>
+    <string name="touchscreen_sensitivity_summary_head">Angi skjermens berøringsfølsomhet</string>
+
+    <string name="touchkey_subcat_title">Berøringstaster</string>
+    <string name="touchkey_light_title_head">Aktiver tastenes baklys</string>
+    <string name="touchkey_light_summary_head">Lys opp berøringstastene når skjermen er på</string> 
+    <string name="touchkey_timeout_title_head">Baklysets tidsavbrudd</string>
+    <string name="touchkey_timeout_summary_head">Forsinkelsen etter et tastetrykk før baklyset slukkes</string>
+
+    <string name="category_sensors_title">Sensorer</string>
+    <string name="accelerometer_subcat_title">Akselerometer</string>
+    <string name="use_accelerometer_calibration_title_head">Bruk kalibreringsdata</string>
+    <string name="use_accelerometer_calibration_summary_head">Bruk akselerometerets kalibreringsdata. Foreta en kalibrering etter å ha haket av denne!</string>
+    <string name="calibrate_accelerometer_title_head">Kalibrer</string>
+    <string name="calibrate_accelerometer_summary_head">Legg telefonen på en helt flat overflate og trykk her for å kalibrere</string>
+    <string name="accelerometer_dialog_head">Kalibreringen er utført</string>
+    <string name="accelerometer_dialog_message">Kalibreringen av sensoren var vellykket.</string>
+
+    <string name="category_haptic_title">Berøring</string>
+    <string name="vibrator_subcat_title">Vibrasjon</string>
+    <string name="vibrator_intensity_title_head">Vibrasjonsintensitet</string>
+    <string name="vibrator_intensity_summary_head">Angi vibrasjonsintensitet</string>
+
+    <string name="category_radio_title">Radio</string>
+    <string name="hspa_title_head">HSPA</string>
+    <string name="hspa_summary_head">Aktiver HSDPA/HSUPA</string>
+
+    <string name="category_dock_title">Dokkingstasjon</string>
+    <string name="dockaudio_subcat_title">Lyd</string>
+    <string name="use_dock_audio_title_head">Bruk dokkingstasjonens USB-lyd</string>
+    <string name="use_dock_audio_summary_head">Bruk dokkingstasjonens passive lydutgang</string>
+</resources>
