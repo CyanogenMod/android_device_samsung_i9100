@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Galaxy S II Ayarları</string>
+
+    <string name="category_screen_title">Ekran</string>
+    <string name="screen_colors_title">Renkler</string>
+    <string name="mdnie_scenario_title_head">Senaryo</string>
+    <string name="mdnie_scenario_summary_head">mDNIe Senaryosunu seç</string>
+    <string name="mdnie_mode_title_head">Mode</string>
+    <string name="mdnie_mode_summary_head">mDNIe Modunu ayarla</string>
+    <string name="mdnie_negative_title_head">Negatif Mod</string>
+    <string name="mdnie_negative_summary_head">Ters renkleri aktif/deaktif et</string>
+    <string name="mdnie_outdoor_title_head">Açık Hava Modu</string>
+    <string name="mdnie_outdoor_summary_head">Açık Hava modunu aktif/deaktif et</string>
+    <string name="panel_gamma_title_head">Ekran beyazlığı</string>
+    <string name="panel_gamma_summary_head">Ekran beyazlık derecesini ayarla</string>
+
+    <string name="touchscreen_subcat_title">Dokunmatik Ekran</string>
+    <string name="touchscreen_sensitivity_title_head">Dokunma duyarlılığı</string>
+    <string name="touchscreen_sensitivity_summary_head">Dokunmatik panel duyarlılığını ayarla</string>
+
+    <string name="touchkey_subcat_title">Dokunmatik tuşlar</string>
+    <string name="touchkey_light_title_head">Tuş arka ışığını etkinleştir</string>
+    <string name="touchkey_light_summary_head">Ekran açıkken dokunmatik tuşlar yansın</string> 
+    <string name="touchkey_timeout_title_head">Tuş ışığı zaman aşım süresi</string>
+    <string name="touchkey_timeout_summary_head">Tuş ışığı sönmesini bir tuşa dokunduktan sonra ertele</string>
+
+    <string name="category_sensors_title">Sensörler</string>
+    <string name="accelerometer_subcat_title">İvmeölçer</string>
+    <string name="use_accelerometer_calibration_title_head">Kalibrasyon bilgisini kullan</string>
+    <string name="use_accelerometer_calibration_summary_head">İvmeölçer kalibrasyon bilgisini kullan. Bunu işaretledikten sonra bir kalibrasyon yapın!</string>
+    <string name="calibrate_accelerometer_title_head">Kalibre et</string>
+    <string name="calibrate_accelerometer_summary_head">Telefonunuzu düz bir zemine koyun ve kalibre etmek için buraya dokunun.</string>
+    <string name="accelerometer_dialog_head">Kalibrasyon tamamlandı.</string>
+    <string name="accelerometer_dialog_message">Sensör başarıyla kalibre edildi.</string>
+
+    <string name="category_haptic_title">Haptic</string>
+    <string name="vibrator_subcat_title">Titreşim</string>
+    <string name="vibrator_intensity_title_head">Titreşim Yoğunluğu</string>
+    <string name="vibrator_intensity_summary_head">Titreşim yoğunluğunu ayarla</string>
+
+    <string name="category_radio_title">Radyo</string>
+    <string name="hspa_title_head">HSPA</string>
+    <string name="hspa_summary_head">HSDPA/HSUPA\'yı etkinleştir</string>
+
+    <string name="category_dock_title">Stand</string>
+    <string name="dockaudio_subcat_title">Ses</string>
+    <string name="use_dock_audio_title_head">USB Ses Standını kullan</string>
+    <string name="use_dock_audio_summary_head">Standdan çıkan pasif sesi kullan</string>
+</resources>
